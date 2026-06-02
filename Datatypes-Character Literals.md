@@ -14,8 +14,7 @@ print('a')
 ~~~
 
 ## Output
-![WhatsApp Image 2025-10-20 at 12 33 15_817f0c69](https://github.com/user-attachments/assets/f215939e-93ab-4b8f-bba1-afa51713b1e1)
-
+<img width="869" height="140" alt="image" src="https://github.com/user-attachments/assets/6d0268cf-1a72-426c-9b8b-2670ba4f32bb" />
 
 ## Result
 Thus , the program has been executed succesfully.
