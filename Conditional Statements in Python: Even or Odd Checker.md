@@ -22,7 +22,9 @@ else:
 ```
 
 ## Output
-![WhatsApp Image 2025-10-20 at 12 33 13_c6b31f78](https://github.com/user-attachments/assets/e4235caa-0787-471f-b08f-3ef1b20bb52d)
+
+<img width="908" height="167" alt="image" src="https://github.com/user-attachments/assets/57ca4ce0-b3ae-449c-b7fc-c1757ab3ddb1" />
+
 
 ## Result
 Thus , the program has been executed succesfully.
