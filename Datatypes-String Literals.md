@@ -14,7 +14,7 @@ men_stepped_on_the_moon= input()
 print  (men_stepped_on_the_moon)
 ~~~
 ## Output
-<img width="987" height="190" alt="Screenshot 2025-10-20 131239" src="https://github.com/user-attachments/assets/6fa6577f-2bd0-4dda-aa4b-0f052d0a8a8f" />
+<img width="987" height="190" alt="image" src="https://github.com/user-attachments/assets/34a7bba3-ff8e-4b5b-84fa-17e889495ffd" />
 
 ## Result
 Thus , the program has been executed succesfully.
