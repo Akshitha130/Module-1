@@ -22,7 +22,7 @@ print(x.imag)
 ~~~
 
 ## Output
-![WhatsApp Image 2025-10-20 at 13 18 04_34477259](https://github.com/user-attachments/assets/b89810b9-7a83-4e01-b3a3-c452540ef3a3)
+<img width="881" height="600" alt="image" src="https://github.com/user-attachments/assets/d49b5039-d782-49c1-9534-603c3f45f6eb" />
 
 
 ## Result
